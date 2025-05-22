@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>La Fuerza 53 - Despertar Nacional</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #e60000;
+      font-family: monospace;
+      padding: 40px;
+    }
+    h1 {
+      color: white;
+      text-align: center;
+    }
+    .mensaje {
+      background-color: #111;
+      padding: 20px;
+      border: 2px solid #e60000;
+    }
+    a {
+      color: #ff4040;
+    }
+  </style>
+</head>
+<body>
+  <h1>La Fuerza 53</h1>
+  <div class="mensaje">
+    <p><strong>Este no es un medio.</strong></p>
+    <p>Es el cuartel digital de quienes ya no creen en partidos, pero creen en la justicia.</p>
+    <p>Investigación ciudadana, verdad sin censura y despertar nacional.</p>
+    <p><a href="manifiesto.html">Leer el Manifiesto</a> | <a href="denuncias.html">Enviar Denuncia</a></p>
+  </div>
+</body>
+</html>
